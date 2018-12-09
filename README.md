@@ -5,3 +5,5 @@ hoge!!!
 hogehoge
 !!!!
 !!!!
+!
+rewrite
